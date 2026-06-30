@@ -54,7 +54,7 @@ Nawasistem menyediakan halaman khusus tentang **dashboard kontraktor** untuk mem
 
 Pelajari selengkapnya di sini:
 
-https://nawasistem.com/dashboard-kontraktor/
+[https://nawasistem.com/dashboard-kontraktor/](https://nawasistem.com/dashboard-kontrol-proyek-kontraktor-cara-monitoring-keuangan-progress-cashflow-secara-real-time/)
 
 ## Topik Terkait
 
